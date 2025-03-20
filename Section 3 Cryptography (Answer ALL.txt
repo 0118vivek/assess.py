@@ -1,0 +1,21 @@
+Section 3: Cryptography (Answer ALL questions) [10 marks]
+
+Q7. (b)Securing communication 
+
+Q8. b) AES 
+
+Q9. c) RSA 
+
+Q10. a) Symmetric uses one key; asymmetric uses two keys 
+
+Q11. c) Blowfish 
+
+Q12. d) Weak key attack
+
+Q13. b) Use of large prime numbers 
+
+Q14. b) Using nonces and timestamps 
+
+Q15. a) PGP 
+
+Q16. a) An encryption method that is immune to quantum computing attacks
